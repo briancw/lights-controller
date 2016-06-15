@@ -1,0 +1,14 @@
+{
+  "name": "milight-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "dependencies": {
+    "express": "^4.13.3",
+    "milight": "^0.1.0",
+    "node-milight-promise": "0.0.3",
+    "node-schedule": "^1.1.0",
+    "suncalc": "^1.7.0"
+  }
+}
